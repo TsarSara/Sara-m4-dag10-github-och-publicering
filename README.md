@@ -1,3 +1,24 @@
+# Kafé Kardemumma
+
+Det här är min version av en webbplats för ett fiktivt kafé, med en startsida och en bokningssida. Jag har använt egna färger och typsnitt. 
+
+**Live sida:** [Öppna sidan här] (https://tsarsara.github.io/Sara-m4-dag08-css-variabler-och-struktur/index.html)
+
+## Tekniker
+
+- Semantisk HTML
+- CSS: Flexbox, Grid, variabler
+- Responsiv design
+
+# Vad har jag lärt mig? 
+
+Hur man gör responsiva sidor med hjälp av Flexbox och Grid, grunderna i Git och GitHub och hur man publicerar med GitHub Pages. 
+
+ 
+
+
+
+
 # Dag 10 · GitHub och publicering
 
 *Modul 4, UI/UX & Frontendutveckling, Lexicon IT-Proffs*
