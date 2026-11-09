@@ -4,8 +4,7 @@ Det här är min version av en webbplats för ett fiktivt kafé, med en startsid
 
 **Live sida:** [Öppna sidan här] (https://tsarsara.github.io/Sara-m4-dag08-css-variabler-och-struktur/index.html)
 
-![Skärmbild av startsidan iPadforma. Header, hero och meny] (/images/ipadformat.jpg)
-![Skärmbild av startsidan i mobilformat. Om oss och footer] (/images/mobilformat.jpg)
+
 
 ## Tekniker
 
